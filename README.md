@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**pratima55/pratima55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Pratima</h1>
+<h3 align="center">A passionate developer from Nepal</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manjilkoirala&label=Profile%20views&color=0e75b6&style=flat" alt="manjilkoirala" /> </p>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **some personal projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **development using python**
+
+- 👯 I’m looking to collaborate on **some python project**
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **<a href= https://www.linkedin.com/in/pratima-dhakal-586a6124b/>Linkedin,</a>**
