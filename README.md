@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning **development using python**
 
-- 👯 I’m looking to collaborate on **some python project**
+- 👯 I’m looking to collaborate on **some QA project**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Software Quality analysis**
 
 - 📫 How to reach me **<a href= https://www.linkedin.com/in/pratima-dhakal-586a6124b/>Linkedin,</a>**
